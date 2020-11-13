@@ -26,7 +26,6 @@ To start the server, run `npm start`. To access the app after starting the serve
 
 
 An example screenshot of the application is below.
-
-![screenshot](assets/screenshot.jpg)
+<img src="https://github.com/tronciu92/Progressive_Budget/blob/main/assets/screenshot.png">
 
 
